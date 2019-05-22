@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B3L7</title>
-    <link>http://b3l7.com/</link>
-    <description>Recent content on B3L7</description>
+    <title>game development on B3L7</title>
+    <link>http://b3l7.com/categories/game-development/</link>
+    <description>Recent content in game development on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 May 2019 14:43:37 -0400</lastBuildDate>
     
-	<atom:link href="http://b3l7.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://b3l7.com/categories/game-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,25 +21,6 @@
 Phaser 3 Tilemap &amp;amp; File Pack Project Template
 Demo
 The original idea of the template was to illustrate a concept I was trying to explain to another user over at HTML5GameDevs.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://b3l7.com/about/</link>
-      <pubDate>Wed, 02 Jan 2019 16:08:04 -0500</pubDate>
-      
-      <guid>http://b3l7.com/about/</guid>
-      <description>Indie Game Developer &amp;amp; RPG Enthusiast.
-E-Mail</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://b3l7.com/posts/helloworld/</link>
-      <pubDate>Wed, 02 Jan 2019 15:58:57 -0500</pubDate>
-      
-      <guid>http://b3l7.com/posts/helloworld/</guid>
-      <description>Going forward this will be my homepage.</description>
     </item>
     
   </channel>

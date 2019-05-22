@@ -3,6 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://b3l7.com/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/babel/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/categories/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/es6/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/game-development/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/javascript/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/phaser/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/phaser-3/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/posts/phaser3-tilemap-pack-update/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/posts/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/template/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/tilemap/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/webpack/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/categories/game-development/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/categories/programming/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://b3l7.com/about/</loc>
     <lastmod>2019-01-02T16:08:04-05:00</lastmod>
   </url>
@@ -10,28 +105,6 @@
   <url>
     <loc>http://b3l7.com/posts/helloworld/</loc>
     <lastmod>2019-01-02T15:58:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/</loc>
-    <lastmod>2019-01-02T16:08:04-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/posts/</loc>
-    <lastmod>2019-01-02T15:58:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

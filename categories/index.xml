@@ -6,9 +6,28 @@
     <description>Recent content in Categories on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 22 May 2019 14:43:37 -0400</lastBuildDate>
     
 	<atom:link href="http://b3l7.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>game development</title>
+      <link>http://b3l7.com/categories/game-development/</link>
+      <pubDate>Wed, 22 May 2019 14:43:37 -0400</pubDate>
+      
+      <guid>http://b3l7.com/categories/game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://b3l7.com/categories/programming/</link>
+      <pubDate>Wed, 22 May 2019 14:43:37 -0400</pubDate>
+      
+      <guid>http://b3l7.com/categories/programming/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
