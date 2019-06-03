@@ -4,7 +4,48 @@
   
   <url>
     <loc>http://b3l7.com/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/dd/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/posts/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/posts/sotuomnibus/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/osr/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/rpg/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://b3l7.com/tags/sotu/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,18 +94,6 @@
   <url>
     <loc>http://b3l7.com/posts/phaser3-tilemap-pack-update/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/posts/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://b3l7.com/tags/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
