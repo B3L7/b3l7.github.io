@@ -9,21 +9,43 @@
     <meta name="description" content="B3L7&#39;s personal website">
     <meta name="keywords" content="blog,developer,personal,indie,games,mobile,literature">
 
-    <base href="http://b3l7.com/posts/phaser3-tilemap-pack-update/">
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Phaser 3 Tilemap Pack Update"/>
+<meta name="twitter:description" content="Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&rsquo;t touched it since.
+Phaser 3 Tilemap &amp; File Pack Project Template
+Demo
+The original idea of the template was to illustrate a concept I was trying to explain to another user over at HTML5GameDevs."/>
+
+    <meta property="og:title" content="Phaser 3 Tilemap Pack Update" />
+<meta property="og:description" content="Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&rsquo;t touched it since.
+Phaser 3 Tilemap &amp; File Pack Project Template
+Demo
+The original idea of the template was to illustrate a concept I was trying to explain to another user over at HTML5GameDevs." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://b3l7.com/posts/phaser3-tilemap-pack-update/" />
+<meta property="article:published_time" content="2019-05-22T14:43:37-04:00"/>
+<meta property="article:modified_time" content="2019-05-22T14:43:37-04:00"/>
+
+
+    
+      <base href="http://b3l7.com/posts/phaser3-tilemap-pack-update/">
+    
     <title>
   Phaser 3 Tilemap Pack Update · B3L7
 </title>
 
-    <link rel="canonical" href="http://b3l7.com/posts/phaser3-tilemap-pack-update/">
+    
+      <link rel="canonical" href="http://b3l7.com/posts/phaser3-tilemap-pack-update/">
+    
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
 
     
       
       
-      <link rel="stylesheet" href="http://b3l7.com/css/coder.min.cd087ace86754b082dec94545567f8361cba42e84f8e15edbc4a9f6e52bd1f6a.css" integrity="sha256-zQh6zoZ1Swgt7JRUVWf4Nhy6QuhPjhXtvEqfblK9H2o=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="http://b3l7.com/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -31,13 +53,13 @@
     
 
     
-      <link rel="stylesheet" href="http://b3l7.com/css/custom.css">
+      <link rel="stylesheet" href="http://b3l7.com/css/custom.css" />
     
 
+    
+    
     <link rel="icon" type="image/png" href="http://b3l7.com/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="http://b3l7.com/img/favicon-16x16.png" sizes="16x16">
-
-    
 
     <meta name="generator" content="Hugo 0.55.6" />
   </head>
@@ -217,6 +239,9 @@ Yesterday I updated my Tilemap and Filepack Template to be compatible with Phase
       </div>
 
       <footer>
+        
+
+
         <div id="disqus_thread"></div>
 <script type="application/javascript">
     var disqus_config = function () {
