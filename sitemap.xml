@@ -4,18 +4,41 @@
   
   <url>
     <loc>https://b3l7.com/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/dd/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
+    <loc>https://b3l7.com/categories/</loc>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/posts/</loc>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/songofsoil/</loc>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/poetry/</loc>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/writing/</loc>
+    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/dd/</loc>
     <lastmod>2019-06-03T08:57:53-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -50,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/babel/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+    <loc>https://b3l7.com/categories/ttrpg/</loc>
+    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/categories/</loc>
+    <loc>https://b3l7.com/tags/babel/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
     <priority>0</priority>
   </url>

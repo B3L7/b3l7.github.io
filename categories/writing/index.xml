@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on B3L7</title>
-    <link>https://b3l7.com/posts/</link>
-    <description>Recent content in Posts on B3L7</description>
+    <title>writing on B3L7</title>
+    <link>https://b3l7.com/categories/writing/</link>
+    <description>Recent content in writing on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Jun 2019 11:15:57 -0400</lastBuildDate>
     
-	<atom:link href="https://b3l7.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://b3l7.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -44,27 +44,6 @@ the angry maelstroms,</description>
 Searchers of the Unknown Omnibus (ODT)
 A friend of mine had been asking me for a few years now if we could play D&amp;amp;D. She has never played before and it got me thinking about the quickest and easiest way to introduce new players to tabletop roleplaying games.
 I looked at HERE’S SOME FUCKIN’ D&amp;amp;D by Dustin R. I really liked the simplicity of it but felt the tone and mechanics were not quite what I was looking for.</description>
-    </item>
-    
-    <item>
-      <title>Phaser 3 Tilemap Pack Update</title>
-      <link>https://b3l7.com/posts/phaser3-tilemap-pack-update/</link>
-      <pubDate>Wed, 22 May 2019 14:43:37 -0400</pubDate>
-      
-      <guid>https://b3l7.com/posts/phaser3-tilemap-pack-update/</guid>
-      <description>Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&amp;rsquo;t touched it since.
-Phaser 3 Tilemap &amp;amp; File Pack Project Template
-Demo
-The original idea of the template was to illustrate a concept I was trying to explain to another user over at HTML5GameDevs.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://b3l7.com/posts/helloworld/</link>
-      <pubDate>Wed, 02 Jan 2019 15:58:57 -0500</pubDate>
-      
-      <guid>https://b3l7.com/posts/helloworld/</guid>
-      <description>Going forward this will be my homepage.</description>
     </item>
     
   </channel>
