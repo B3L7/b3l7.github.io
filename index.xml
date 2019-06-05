@@ -68,14 +68,5 @@ The original idea of the template was to illustrate a concept I was trying to ex
 E-Mail</description>
     </item>
     
-    <item>
-      <title>Hello World</title>
-      <link>https://b3l7.com/posts/helloworld/</link>
-      <pubDate>Wed, 02 Jan 2019 15:58:57 -0500</pubDate>
-      
-      <guid>https://b3l7.com/posts/helloworld/</guid>
-      <description>Going forward this will be my homepage.</description>
-    </item>
-    
   </channel>
 </rss>
