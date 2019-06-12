@@ -4,18 +4,59 @@
   
   <url>
     <loc>https://b3l7.com/</loc>
-    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/categories/</loc>
-    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
+    <loc>https://b3l7.com/tags/dd/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/one-page-dungeon/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/posts/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/moonpriestssotu/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/osr/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/rpg/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/sotu/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/</loc>
     <lastmod>2019-06-05T11:15:57-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -38,38 +79,8 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/dd/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://b3l7.com/posts/sotuomnibus/</loc>
     <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/osr/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/rpg/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/sotu/</loc>
-    <lastmod>2019-06-03T08:57:53-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
