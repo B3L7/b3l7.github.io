@@ -4,7 +4,48 @@
   
   <url>
     <loc>https://b3l7.com/</loc>
-    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/sci-fi/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/theycamefromthesky/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/short-story/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/writing/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15,30 +56,13 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/one-page-dungeon/</loc>
-    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/posts/</loc>
-    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/</loc>
-    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/posts/moonpriestssotu/</loc>
-    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://b3l7.com/tags/osr/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/one-page-dungeon/</loc>
     <lastmod>2019-06-11T08:55:25-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,9 +80,8 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/categories/</loc>
-    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://b3l7.com/posts/moonpriestssotu/</loc>
+    <lastmod>2019-06-11T08:55:25-04:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +91,6 @@
   
   <url>
     <loc>https://b3l7.com/categories/poetry/</loc>
-    <lastmod>2019-06-05T11:15:57-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/categories/writing/</loc>
     <lastmod>2019-06-05T11:15:57-04:00</lastmod>
     <priority>0</priority>
   </url>
