@@ -6,10 +6,21 @@
     <description>Recent content in game development on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 May 2019 14:43:37 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 14:15:31 -0400</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/categories/game-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Doom WAD: Reactor Core</title>
+      <link>https://b3l7.com/posts/reactorcore/</link>
+      <pubDate>Mon, 24 Jun 2019 14:15:31 -0400</pubDate>
+      
+      <guid>https://b3l7.com/posts/reactorcore/</guid>
+      <description>Download: Reactor Core
+Requirements: Doom 2, GZDoom
+I created this WAD a few years ago with the aim to make a megawad of several levels with a continuous story. That seems unlikely now so I am releasing it as is so people can play around with it. You can see up front that I was more interested in interesting aesthetics over unique game play. That being said I learned a lot in the process and I think it helped set me down the road to eventually getting into game development.</description>
+    </item>
     
     <item>
       <title>Phaser 3 Tilemap Pack Update</title>

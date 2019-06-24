@@ -4,35 +4,59 @@
   
   <url>
     <loc>https://b3l7.com/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/categories/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/dd/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
+    <loc>https://b3l7.com/tags/doom/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/reactorcore/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/gzdoom/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/posts/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/posts/sotuomnibusv3/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
+    <loc>https://b3l7.com/tags/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://b3l7.com/tags/</loc>
+    <loc>https://b3l7.com/tags/wad/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/game-development/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/dd/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,6 +71,11 @@
     <loc>https://b3l7.com/tags/rpg/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/sotuomnibusv3/</loc>
+    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
   </url>
   
   <url>
@@ -166,12 +195,6 @@
   
   <url>
     <loc>https://b3l7.com/tags/webpack/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/categories/game-development/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
     <priority>0</priority>
   </url>
