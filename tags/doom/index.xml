@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doom on B3L7</title>
+    <link>https://b3l7.com/tags/doom/</link>
+    <description>Recent content in Doom on B3L7</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2019 14:15:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://b3l7.com/tags/doom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doom WAD: Reactor Core</title>
+      <link>https://b3l7.com/posts/reactorcore/</link>
+      <pubDate>Mon, 24 Jun 2019 14:15:31 -0400</pubDate>
+      
+      <guid>https://b3l7.com/posts/reactorcore/</guid>
+      <description>Download: Reactor Core
+Requirements: Doom 2, GZDoom
+I created this WAD a few years ago with the aim to make a megawad of several levels with a continuous story. That seems unlikely now so I am releasing it as is so people can play around with it. You can see up front that I was more interested in interesting aesthetics over unique game play. That being said I learned a lot in the process and I think it helped set me down the road to eventually getting into game development.</description>
+    </item>
+    
+  </channel>
+</rss>

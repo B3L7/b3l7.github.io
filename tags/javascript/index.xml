@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on B3L7</title>
+    <link>https://b3l7.com/tags/javascript/</link>
+    <description>Recent content in Javascript on B3L7</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 May 2019 14:43:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://b3l7.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phaser 3 Tilemap Pack Update</title>
+      <link>https://b3l7.com/posts/phaser3-tilemap-pack-update/</link>
+      <pubDate>Wed, 22 May 2019 14:43:37 -0400</pubDate>
+      
+      <guid>https://b3l7.com/posts/phaser3-tilemap-pack-update/</guid>
+      <description>Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&amp;rsquo;t touched it since.
+Phaser 3 Tilemap &amp;amp; File Pack Project Template
+Demo
+The original idea of the template was to illustrate a concept I was trying to explain to another user over at HTML5GameDevs.</description>
+    </item>
+    
+  </channel>
+</rss>
