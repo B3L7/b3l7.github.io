@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on B3L7</title>
@@ -6,10 +6,46 @@
     <description>Recent content in Tags on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jun 2019 14:15:31 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 10:21:30 -0400</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#WEAREALLUS</title>
+      <link>https://b3l7.com/tags/#weareallus/</link>
+      <pubDate>Fri, 25 Oct 2019 10:21:30 -0400</pubDate>
+      
+      <guid>https://b3l7.com/tags/#weareallus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call of Cthulhu</title>
+      <link>https://b3l7.com/tags/call-of-cthulhu/</link>
+      <pubDate>Fri, 25 Oct 2019 10:21:30 -0400</pubDate>
+      
+      <guid>https://b3l7.com/tags/call-of-cthulhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horror</title>
+      <link>https://b3l7.com/tags/horror/</link>
+      <pubDate>Fri, 25 Oct 2019 10:21:30 -0400</pubDate>
+      
+      <guid>https://b3l7.com/tags/horror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpg</title>
+      <link>https://b3l7.com/tags/rpg/</link>
+      <pubDate>Fri, 25 Oct 2019 10:21:30 -0400</pubDate>
+      
+      <guid>https://b3l7.com/tags/rpg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Doom</title>
@@ -48,7 +84,7 @@
     </item>
     
     <item>
-      <title>OSR</title>
+      <title>osr</title>
       <link>https://b3l7.com/tags/osr/</link>
       <pubDate>Wed, 19 Jun 2019 08:47:44 -0400</pubDate>
       
@@ -57,16 +93,7 @@
     </item>
     
     <item>
-      <title>RPG</title>
-      <link>https://b3l7.com/tags/rpg/</link>
-      <pubDate>Wed, 19 Jun 2019 08:47:44 -0400</pubDate>
-      
-      <guid>https://b3l7.com/tags/rpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SotU</title>
+      <title>sotu</title>
       <link>https://b3l7.com/tags/sotu/</link>
       <pubDate>Wed, 19 Jun 2019 08:47:44 -0400</pubDate>
       

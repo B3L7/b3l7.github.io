@@ -1,23 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://b3l7.com/tags/#weareallus/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://b3l7.com/</loc>
-    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/call-of-cthulhu/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://b3l7.com/categories/</loc>
-    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/horror/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/rpg/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/tags/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/posts/lightlessbeacon/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/ttrpg/</loc>
+    <lastmod>2019-10-25T10:21:30-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/doom/</loc>
     <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,51 +63,28 @@
   </url>
   
   <url>
+    <loc>https://b3l7.com/categories/game-development/</loc>
+    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://b3l7.com/tags/gzdoom/</loc>
     <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/posts/</loc>
-    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/</loc>
-    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/wad/</loc>
     <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/categories/game-development/</loc>
-    <lastmod>2019-06-24T14:15:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/dd/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/osr/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/tags/rpg/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -81,25 +95,21 @@
   <url>
     <loc>https://b3l7.com/tags/sotu/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/categories/ttrpg/</loc>
-    <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/categories/writing/</loc>
     <lastmod>2019-06-19T08:47:44-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/sci-fi/</loc>
     <lastmod>2019-06-17T09:00:08-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://b3l7.com/categories/short-story/</loc>
+    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
   </url>
   
   <url>
@@ -108,15 +118,8 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/categories/short-story/</loc>
-    <lastmod>2019-06-17T09:00:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://b3l7.com/tags/one-page-dungeon/</loc>
     <lastmod>2019-06-11T08:55:25-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -125,14 +128,13 @@
   </url>
   
   <url>
-    <loc>https://b3l7.com/posts/songofsoil/</loc>
+    <loc>https://b3l7.com/categories/poetry/</loc>
     <lastmod>2019-06-05T11:15:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://b3l7.com/categories/poetry/</loc>
+    <loc>https://b3l7.com/posts/songofsoil/</loc>
     <lastmod>2019-06-05T11:15:57-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -143,37 +145,31 @@
   <url>
     <loc>https://b3l7.com/tags/babel/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/es6/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/game-development/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/javascript/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/phaser/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/phaser-3/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -182,27 +178,23 @@
   </url>
   
   <url>
+    <loc>https://b3l7.com/categories/programming/</loc>
+    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://b3l7.com/tags/template/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/tilemap/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://b3l7.com/tags/webpack/</loc>
     <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://b3l7.com/categories/programming/</loc>
-    <lastmod>2019-05-22T14:43:37-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
