@@ -6,10 +6,19 @@
     <description>Recent content in Posts on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2019 17:19:14 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 15:37:30 -0500</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plumbing the Depths with Maze Rats</title>
+      <link>https://b3l7.com/posts/plumbingdepths/</link>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
+      
+      <guid>https://b3l7.com/posts/plumbingdepths/</guid>
+      <description>Well we have a wacky one here kids! The group got together in between our normal campaign sessions to play a one-off and we finally got to check out a system I&amp;rsquo;ve been dying try for a while now. That system would of course be Maze Rats by Ben Milton. I wanted to pair this ultra-light system with a quick adventure so I opted again for a One Page Dungeon since the last one went so well.</description>
+    </item>
     
     <item>
       <title>Searchers of the Unknown Omnibus v4</title>
@@ -20,7 +29,7 @@
       <description>Searchers of the Unknown Omnibus v4 (PDF)
 Searchers of the Unknown Omnibus v4 (ODT)
 This is a minor update to my Searchers of the Unknown Omnibus. Changes include:
- Removed Encounter Movement Penalty for shields Nerfed bonuses for Races and Classes as I think they were excessive Added bonus for stealth and stunts for theives Various minor fixes and tweaks  
+ Removed Encounter Movement Penalty for shields Nerfed bonuses for Races and Classes as I think they were excessive Added bonus for stealth and stunts for thieves Various minor fixes and tweaks  
 Version 3 of the Omnibus can still be found here</description>
     </item>
     

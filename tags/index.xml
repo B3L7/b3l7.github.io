@@ -6,7 +6,7 @@
     <description>Recent content in Tags on B3L7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2019 17:19:14 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 15:37:30 -0500</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,32 +14,50 @@
     <item>
       <title>D&amp;D</title>
       <link>https://b3l7.com/tags/dd/</link>
-      <pubDate>Thu, 31 Oct 2019 17:19:14 -0400</pubDate>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
       
       <guid>https://b3l7.com/tags/dd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>osr</title>
+      <title>Maze Rats</title>
+      <link>https://b3l7.com/tags/maze-rats/</link>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
+      
+      <guid>https://b3l7.com/tags/maze-rats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Page Dungeon</title>
+      <link>https://b3l7.com/tags/one-page-dungeon/</link>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
+      
+      <guid>https://b3l7.com/tags/one-page-dungeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSR</title>
       <link>https://b3l7.com/tags/osr/</link>
-      <pubDate>Thu, 31 Oct 2019 17:19:14 -0400</pubDate>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
       
       <guid>https://b3l7.com/tags/osr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rpg</title>
+      <title>RPG</title>
       <link>https://b3l7.com/tags/rpg/</link>
-      <pubDate>Thu, 31 Oct 2019 17:19:14 -0400</pubDate>
+      <pubDate>Wed, 13 Nov 2019 15:37:30 -0500</pubDate>
       
       <guid>https://b3l7.com/tags/rpg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sotu</title>
+      <title>SotU</title>
       <link>https://b3l7.com/tags/sotu/</link>
       <pubDate>Thu, 31 Oct 2019 17:19:14 -0400</pubDate>
       
@@ -107,15 +125,6 @@
       <pubDate>Mon, 17 Jun 2019 09:00:08 -0400</pubDate>
       
       <guid>https://b3l7.com/tags/sci-fi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One-Page Dungeon</title>
-      <link>https://b3l7.com/tags/one-page-dungeon/</link>
-      <pubDate>Tue, 11 Jun 2019 08:55:25 -0400</pubDate>
-      
-      <guid>https://b3l7.com/tags/one-page-dungeon/</guid>
       <description></description>
     </item>
     
