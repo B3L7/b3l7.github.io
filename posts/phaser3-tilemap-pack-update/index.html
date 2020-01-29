@@ -63,7 +63,7 @@ The original idea of the template was to illustrate a concept I was trying to ex
     <link rel="icon" type="image/png" href="https://b3l7.com/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://b3l7.com/img/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.63.0" />
+    <meta name="generator" content="Hugo 0.63.2" />
   </head>
 
   
@@ -152,8 +152,10 @@ The original idea of the template was to illustrate a concept I was trying to ex
       </header>
 
       <div>
-        <p><img src="https://raw.githubusercontent.com/B3L7/phaser3-tilemap-pack/master/screenshot.png" alt="screenshot" title="Screenshot">
-Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&rsquo;t touched it since.</p>
+        
+          <img src='https://raw.githubusercontent.com/B3L7/phaser3-tilemap-pack/master/screenshot.png' alt="Featured image"/>
+        
+        <p>Yesterday I updated my Tilemap and Filepack Template to be compatible with Phaser 3.17, webpack 4, babel, and implemented pools for the player and enemy projectiles. I created the template a year ago and other than a minor compatibility update last fall haven&rsquo;t touched it since.</p>
 <p><a href="https://github.com/B3L7/phaser3-tilemap-pack#phaser-3-tilemap--file-pack-project-template">Phaser 3 Tilemap &amp; File Pack Project Template</a><br>
 <a href="https://b3l7.github.io/phaser3-tilemap-pack/">Demo</a></p>
 <p>The original idea of the template was to illustrate a concept I was trying to explain to another user over at <a href="http://www.html5gamedevs.com/">HTML5GameDevs</a>. The idea was to have a single level scene class which dynamically loaded the proper tilemap each time. That way you would not have to have a different scene for each level of the game. It then grew as I became interested in trying out other ideas and Phaser functions until it was essentially a finished small game. I knew a lot less about Phaser 3 a year ago and the documentation, although extensive, was not in the state that it currently is in. As such I am trying to make a concerted effort to go through, clean up, and replace as much code with actual Phaser API methods as I can.</p>
@@ -214,6 +216,7 @@ Yesterday I updated my Tilemap and Filepack Template to be compatible with Phase
 <p>I looked briefly at replacing my custom &ldquo;create from tiled objects&rdquo; method with Phaser’s method but decided it would end up being just as complex if not more since I am checking against the registry to see if the object had previously been picked up or destroyed. I still want to revisit this idea with fresh eyes as I think there is probably a better way of doing it.</p>
 
       </div>
+
 
       <footer>
         
