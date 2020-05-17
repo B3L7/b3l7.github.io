@@ -8,9 +8,11 @@
 	<body>
 
 		<h1>Dreamhaven Play-test Survey</h1>
-
+		<br>
+		Thank you for participating in the Dreamhaven Play Test! Any feedback you give will be incredibly helpful.
 		<!-- Start code for the form-->
 		<form action="mailto:b3l7@b3l7.com?Subject=Play-test%20Survey" name="Play-test Survey" method="post" enctype="text/plain">
+			<h2>General Info</h2>
 			Name:<br>
 			<input type="text" name="name"><br>
 			E-mail:<br>
@@ -20,7 +22,22 @@
 			<input type="number" name="Player Number"><br><br>
 			Session Summary:
 			<input type="text" name="Session Summary" size="100"><br><br>
+			Which play test did you run:
+			<select id="testVersion" name="testVersion">
+				<option value="Play Test 1">Play Test 1</option>
+				<option value="Play Test 2">Play Test 2</option>
+			</select><br><br>
+			Did you finish all of the adventure content:
+			<select id="finish" name="finish">
+				<option value="Yes">Yes</option>
+				<option value="No">No</option>
+			</select><br><br>
+			How many sessions did it take to finish all of the content:
+			<input type="number" name="Number of Sessions" min="1"><br><br>
+			</select><br><br><br>
 
+			<h2>Classes and Powers</h2>
+			<br>
 			<h3>The Aldhelsi Class</h3>
 			<select id="aldhelsiPlay" name="aldhelsiPlay">
 				<option value="i played it">I played it</option>
@@ -81,6 +98,14 @@
 			Comments on the Psionic Powers:<br>
 			<input type="text" name="Powers Comments" size="50"><br><br>
 			<br>
+			<h2>Adventures and Locations</h2>
+			<br>
+			What did you think of the locations:<br>
+			<input type="text" name="Locations Comments" size="50"><br><br>
+			What did you think of the adventures:<br>
+			<input type="text" name="Locations Comments" size="50"><br><br>
+
+			<br><br>
 			<h3>Additional Comments</h3>
 			<input type="text" name="Other Comments" size="100"><br><br>
 
