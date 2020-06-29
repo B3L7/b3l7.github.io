@@ -6,10 +6,19 @@
     <description>Recent content in Categories on D.M. Wilson&#39;s Pocket Dimension</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Feb 2020 06:12:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 08:57:54 -0400</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ttrpg</title>
+      <link>https://b3l7.com/categories/ttrpg/</link>
+      <pubDate>Mon, 29 Jun 2020 08:57:54 -0400</pubDate>
+      
+      <guid>https://b3l7.com/categories/ttrpg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ttrp</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 28 Feb 2020 06:12:27 -0500</pubDate>
       
       <guid>https://b3l7.com/categories/ttrp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ttrpg</title>
-      <link>https://b3l7.com/categories/ttrpg/</link>
-      <pubDate>Fri, 22 Nov 2019 10:00:30 -0500</pubDate>
-      
-      <guid>https://b3l7.com/categories/ttrpg/</guid>
       <description></description>
     </item>
     
