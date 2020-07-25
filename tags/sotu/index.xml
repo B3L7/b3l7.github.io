@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SotU on D.M. Wilson&#39;s Pocket Dimension</title>
+    <title>sotu on D.M. Wilson&#39;s Pocket Dimension</title>
     <link>https://b3l7.com/tags/sotu/</link>
-    <description>Recent content in SotU on D.M. Wilson&#39;s Pocket Dimension</description>
+    <description>Recent content in sotu on D.M. Wilson&#39;s Pocket Dimension</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2019 17:19:14 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 15:20:04 -0400</lastBuildDate>
     
 	<atom:link href="https://b3l7.com/tags/sotu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adventurers of the Uncharted</title>
+      <link>https://b3l7.com/posts/adventurersuncharted/</link>
+      <pubDate>Sat, 25 Jul 2020 15:20:04 -0400</pubDate>
+      
+      <guid>https://b3l7.com/posts/adventurersuncharted/</guid>
+      <description>It&amp;rsquo;s free RPG day but unfortunately I still do not have anything commercial to give away. But in the spirit of things here is this bastardization of SotU that I have been working on and off on:
+Adventurers of the Uncharted v1 (PDF)
+Adventurers of the Uncharted v1 (ODT)
+I had planned to expand out the species, classes, feats, spells, etc. But with working on Dreamhaven and other projects I haven&amp;rsquo;t put much time in it.</description>
+    </item>
     
     <item>
       <title>Searchers of the Unknown Omnibus v4</title>
